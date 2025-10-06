@@ -95,3 +95,5 @@ We will need to re-implement bootstrapping from a boot sequence (contained in a 
 | Re-implement Vere LMDB Event log                               | 4w   | N |
 | **Compatibility**                                                         |
 | Migration tooling (cue snapshot + metadata) vere->New Mars     | 2w   | N |
+
+<!-- Auto-update: 2025-10-06T12:09:37.584896 -->
