@@ -189,3 +189,5 @@ Return to just past the calling `lnk` instruction or the outer virtualization co
 
 ### `br1`
 Continue if the result register is 0, branch to the given label if it is 1. Nock crash otherwise
+
+<!-- Auto-update: 2025-10-06T17:41:09.591802 -->
