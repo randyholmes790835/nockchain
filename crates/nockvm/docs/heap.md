@@ -60,3 +60,5 @@ TODO: Can we also use persistent noun storage for the event log?
 ### During running computations
 - Any result or subject register
 - Any slot in a Nock stack
+
+<!-- Auto-update: 2025-10-09T18:35:46.912000 -->
