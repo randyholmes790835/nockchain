@@ -20,3 +20,5 @@ You can now use this pill to boot a ship using your Vere + Ares executable:
 ```
 
 If it writes `effect` to the terminal with every keystroke, you have succeeded!
+
+<!-- Auto-update: 2025-10-14T04:41:59.929385 -->
