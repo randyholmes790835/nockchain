@@ -19,3 +19,4 @@
 * Interpreter should handle nock 12 with an extra input of a scry gate stack, so it can be used to jet `+mink`
 * Also need to return crash values from the interpreter, and build traces when passing through nock 11.
 * ~master-morzod objects to calling the machine code from JIT compilation "automatic jets" and is probably right.
+<!-- Auto-update: 2025-10-14T15:24:23.221281 -->
