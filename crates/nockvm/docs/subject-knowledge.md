@@ -131,3 +131,5 @@ Descending into a `[%gues ~]` case causes each branch off the path to the path t
 ### Sock intersection
 Intersecting two socks produces a sock with knowledge where the intersected socks agree, and ignorance where one represents ignorance or the socks disagree.
 Intersection descends into `%know` cases in order to produce the maximum degree of agreed-upon knowledge.
+
+<!-- Auto-update: 2025-10-19T08:32:04.926742 -->
